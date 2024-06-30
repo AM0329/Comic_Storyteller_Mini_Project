@@ -9,5 +9,5 @@ Python with version higher than 3.0
 Installed Tesseract OCR on your system. 
 
 Import Libraries: nltk,streamlit, pytesseract,pyttsx3, PIL
-Uploading the sample video of this project : https://github.com/AM0329/Comic_Storyteller_Mini_Project/assets/134227747/559bf9d0-6d5e-433d-8a3a-7686a91a20e1
+
 
